@@ -1,0 +1,3 @@
+*.sql linguist-language=TSQL
+*.tsql linguist-language=TSQL
+*.ipynb linguist-language=Python
